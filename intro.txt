@@ -13,7 +13,7 @@ Run command git clone https://github.com/awscloudessentials/intro-to-aws-lab.git
 Run command cd intro-to-aws-lab
 Run command ls -la to view content of local repo
 
-Step 3 
+Step 3
 Go to your Github account
 Create a personal access token in your Github account to enable you push the repo into your Personal account
 Kindly follow the steps in this link https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
