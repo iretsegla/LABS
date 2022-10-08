@@ -25,7 +25,7 @@ Select existing security group and select the one you created in step 3
 
 Open up the “Advanced details” tab and scroll to “User data” and paste the below script
 #!/bin/bash
-# Please make sure to launch Amazon Linux 2
+# Please make sure to launch Amazon Linux 2 (this should not be part of the user data)
 yum update -y
 yum install -y httpd
 systemctl start httpd
